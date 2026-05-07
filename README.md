@@ -27,7 +27,7 @@ A standalone desktop application engineered to automate the extraction of unstru
 **2. Original PDF Input vs. Formatted Word Output:**
 ![PDF Input](pdf.png)
 
-![Word Output](word.jpg)
+![Word Output](word.png)
 
 ---
 *Built by a passionate Document Processing & Automation Specialist.*
